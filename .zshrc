@@ -105,7 +105,8 @@ alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
 alias sshconfig="code ~/.ssh/config"
 
-al
+alias startXam="sudo /opt/lampp/lampp start"
+alias stopXam="sudo /opt/lampp/lampp stop"
 
 
 export NVM_DIR="$HOME/.nvm"
